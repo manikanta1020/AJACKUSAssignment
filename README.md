@@ -6,12 +6,12 @@ This project is a **responsive and interactive Employee Directory Web Interface*
 
 1. **Download or clone** this repository:
    ```bash
-   git clone 
+   git clone https://github.com/manikanta1020/AJACKUSAssignment.git
    ```
 
 2. **Navigate to the project folder**:
    ```bash
-   cd 
+   cd /AJACKUSAssignment
    ```
 
 3. **Open `index.html` in any modern browser** to view the application:
