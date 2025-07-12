@@ -31,13 +31,7 @@ employee-directory/
 └── README.md         # Project overview and documentation
 ```
 
----
 
-## 📸 Screenshots
-
-*(Optional: Add screenshots here if needed)*
-
----
 
 ## 💡 Features
 
